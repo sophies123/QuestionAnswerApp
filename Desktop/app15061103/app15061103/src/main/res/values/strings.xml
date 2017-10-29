@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">APP15061103</string>
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="next_button">下一题</string>
+    <string name="correct_toast">Correct!Score+20!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The Sue cancel connect the red Ocean </string>
+    <string name="question_africa">The source of the neil river is in Egypt</string>
+    <string name="question_americas">The Amazon river is the longest</string>
+    <string name="question_asia">Lake Baikal is the world \'s oldest and deepest fresh water lake</string>
+    <string name="warning_text">Are you want to do this?</string>
+    <string name="show_answer_button">显示答案</string>
+    <string name="cheat_button">作弊</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+    <string name="sum_topics">测试题目总数：</string>
+    <string name="LAST">上一题</string>
+    <string name="current_problem">当前问题为: </string>
+    <string name="CheckAnswer_button">核对答案</string>
+    <string name="CheckScore_button">查看成绩</string>
+    <string name="start_the_quiz">开始答题</string>
+    <string name="add_button">添加题目</string>
+    <string name="add_item">添加题目</string>
+    <string name="returnMain">查看原题</string>
+    <string name="addAnswer1">输入答案</string>
+    <string name="AddQuestion">添加题目</string>
+    <string name="confirm_text">确认添加</string>
+    <string name="true_answer">正确</string>
+    <string name="false_answer">错误</string>
+    <string name="return_main">确认并返回</string>
+    <string name="refresh_button">更新题库</string>
+    <string name="totalIndex">总的题目数：</string>
+    <string name="currentIndex">当前题号为：</string>
+</resources>

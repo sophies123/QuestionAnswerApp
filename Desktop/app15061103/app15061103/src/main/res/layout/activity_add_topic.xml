@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/addQusetionText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/AddQuestion"
+        android:maxLines="2"/>
+    <EditText
+        android:id="@+id/addAnswerText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/addAnswer1"
+        android:maxLines="1"/>
+
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center_horizontal">
+           <!--<Button
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:id="@+id/confirm_Button"
+               android:layout_gravity="bottom|left"
+               android:text="@string/confirm_text"/>-->
+           <Button
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:id="@+id/return_main"
+               android:text="@string/return_main"
+               android:layout_gravity="bottom|right"/>
+
+       </LinearLayout>
+
+</LinearLayout>
